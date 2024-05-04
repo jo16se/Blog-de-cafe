@@ -76,10 +76,10 @@ img{
 }
 
 /* Header */
-.webp .hearer{
+.webp .header {
     background-image: url(../img/banner.webp);
 }
-.no-webp .hearer{
+.no-webp .header {
     background-image: url(../img/banner.jpg);
 }
 .header{
