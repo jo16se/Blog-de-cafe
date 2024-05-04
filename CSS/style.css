@@ -76,8 +76,13 @@ img{
 }
 
 /* Header */
-.header{
+.webp .hearer{
+    background-image: url(../img/banner.webp);
+}
+.no-webp .hearer{
     background-image: url(../img/banner.jpg);
+}
+.header{
     height: 60rem;
     background-size: cover;
     background-repeat: no-repeat;
